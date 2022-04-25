@@ -1,10 +1,10 @@
 #This Script will help you to build a manual key color scale for data in R (for Rows & Columns)
 #REFERENCE - https://stackoverflow.com/questions/55187154/ggplot-match-color-code-column-to-another-column-in-r-dataframe
 ###EXAMPLE FROM INSIDE R - Set your colors and data here - use this to modify what key scale output based on your needs 
-#real <- c("ST10","ST11","ST131","ST21","ST17","ST93","ST16","ST95","ST69","ST73","ST38","ST655")
+#real <- c("USA","UK","Vietnam","Singapore","India","France","Netherlands","HongKong","Australia","Antarctica","Germany","UAE")
 #colorcode <- c("#0000FF","#A52A2A","#7FFF00","#FF7F50","#FF1493","#9932CC","#FFD700","#9630b0","#DDA0DD","#FFFF00","#3E8700","#4682B4")
 #rc1key <- data.frame(real,colorcode)
-#real <- c("ARGannot","oriT","T4SS","PlasmidFinder","Plasmid18Replicons")
+#real <- c("Orchid","Tulip","Sunflower","Rose","Lily")
 #colorcode <- c("#FFD700","#A52A2A","#9630b0","#4682B4","#7FFF00")
 #cc1key <- data.frame(real,colorcode)
 ###EXAMPLE FOR RUNNING ON A FILE
