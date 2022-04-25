@@ -9,11 +9,11 @@
 #cc1key <- data.frame(real,colorcode)
 ###EXAMPLE FOR RUNNING ON A FILE
 #real     colorcode (COLUMNS)
-#ARGannot FFD700
-#oriT A52A2A
+#Orchid FFD700
+#Tulip A52A2A
 #real     colorcode (ROWS)
-#ST10 0000FF
-#ST11 A52A2A
+#USA 0000FF
+#UK A52A2A
 
 #SYNTAX: Rscript manualKeyR.R rc1key.txt cc1key.txt
 library(ggplot2)
